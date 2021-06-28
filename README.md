@@ -1,4 +1,4 @@
-<h3 align="center">Plotting Choropleth Bangladesh Map using Python</h3>
+<h1 align="center">Plotting Choropleth Bangladesh Map using Python</h1>
 
 <p align="center">
   <a href="" rel="noopener">
