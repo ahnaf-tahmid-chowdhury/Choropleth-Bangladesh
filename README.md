@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/ahnaf-tahmid-chowdhury/Choropleth-Bangladesh/blob/master/image.png" alt="Map logo"></a>
+ <img src="https://github.com/ahnaf-tahmid-chowdhury/Choropleth-Bangladesh/blob/master/image.png" alt="Map logo"></a>
 </p>
 
 ## Table of Contents
