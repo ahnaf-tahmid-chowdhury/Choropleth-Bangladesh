@@ -28,6 +28,6 @@ A step by step series of examples that to get a development env running.
 [Geojson files](https://github.com/yasserius/bangladesh_geojson_shapefile)
 
 
-## Getting Started <a name = "getting_started"></a>
+### Getting Started <a name = "getting_started"></a>
 
 After installing all recomanded tools run <b>Choropleth-bangladesh.ipynb</b> file to get started
