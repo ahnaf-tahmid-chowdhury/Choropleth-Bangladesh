@@ -1,5 +1,4 @@
 # Population density of Bangladesh according to district 
----
 1. The current population of Bangladesh is 166,387,872 as of Friday, July 16, 2021, based on Worldometer elaboration of the latest United Nations data.
 2. Bangladesh 2020 population is estimated at 164,689,383 people at mid year according to UN data.
 3. Bangladesh population is equivalent to 2.11% of the total world population.
@@ -8,7 +7,6 @@
 6. The total land area is 130,170 Km2 (50,259 sq. miles)
 
 ## Plotting Choropleth Bangladesh Map
----
 A choropleth map is a type of thematic map in which areas are shaded or patterned in proportion to a statistical variable that represents an aggregate summary of a geographic characteristic within each area, such as population density or per-capita income.
 
 
@@ -41,7 +39,7 @@ $ pip install matplotlib
 $ pip install pandas
 ```
 
-A step by step process who the geojson data is collected described here
+A step by step process how the geojson data is collected described here
 
 [Geojson files](https://github.com/yasserius/bangladesh_geojson_shapefile)
 
